@@ -1,1 +1,2 @@
 # Ansible
+本リポジトリでは、Red Hat Ansibleの初学者に向けた操作練習用のPlaybookや構成ファイルなどを掲示予定
